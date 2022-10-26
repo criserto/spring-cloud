@@ -32,5 +32,6 @@ scrape_configs:
     #localhost if not using the Docker.
 
     ## host.docker.internal hará referencia al docker interno local, localhost no funcionará
+    ## esto se debe añadir también a grafana
     static_configs:
       - targets: ['host.docker.internal:8080']
