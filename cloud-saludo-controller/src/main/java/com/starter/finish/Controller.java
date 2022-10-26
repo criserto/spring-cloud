@@ -21,6 +21,7 @@ public class Controller {
 //        return saludo.mensajeSaludo();
 //    }
 
+    //Para probar ir --> http://localhost:8080/temperatura
     @GetMapping("/temperatura")
     public String decirTemp() {
         return temp.obtenerTemperatura();
