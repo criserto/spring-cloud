@@ -1,5 +1,5 @@
 
-# Prometheus & Grafana
+# Prometheus & Grafana | Cristian González Hens
 
 Prometheus y Grafana son herramientas que sirven para monitorear nuestros microservicios.
 
