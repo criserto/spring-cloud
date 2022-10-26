@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Actuator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Actuator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-saludo-configure/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-saludo-configure/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-saludo-controller/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-saludo-controller/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-saludo-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-saludo-starter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-saludo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-saludo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-temperatura/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-temperatura/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/priceproductservice/productservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/priceproductservice/productservice/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/priceservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/priceservice/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/productservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/productservice/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

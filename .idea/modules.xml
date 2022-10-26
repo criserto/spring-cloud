@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Actuator/Actuator.iml" filepath="$PROJECT_DIR$/Actuator/Actuator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gateway/Gateway.iml" filepath="$PROJECT_DIR$/Gateway/Gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-saludo/Spring-Cloud.iml" filepath="$PROJECT_DIR$/cloud-saludo/Spring-Cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-saludo-configure/Spring-Configure.iml" filepath="$PROJECT_DIR$/cloud-saludo-configure/Spring-Configure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-saludo-controller/Spring-Finish.iml" filepath="$PROJECT_DIR$/cloud-saludo-controller/Spring-Finish.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-saludo-starter/Spring-Starter.iml" filepath="$PROJECT_DIR$/cloud-saludo-starter/Spring-Starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-Cloud/cloud-saludo.iml" filepath="$PROJECT_DIR$/Spring-Cloud/cloud-saludo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-Cloud-Starter/cloud-saludo-configure.iml" filepath="$PROJECT_DIR$/Spring-Cloud-Starter/cloud-saludo-configure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-Finish/cloud-saludo-controller.iml" filepath="$PROJECT_DIR$/Spring-Finish/cloud-saludo-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-Start/cloud-saludo-starter.iml" filepath="$PROJECT_DIR$/Spring-Start/cloud-saludo-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/priceservice/priceservice.iml" filepath="$PROJECT_DIR$/priceservice/priceservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/productservice/productservice.iml" filepath="$PROJECT_DIR$/productservice/productservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,2 @@
+##org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.springconfigure.SaludoAutoConfigure
+org.springframework.boot.autoconfigure.EnableAutoConfiguration = com.springconfigure.Config.TemperatureAutoconfigure
