@@ -18,6 +18,7 @@ public class Controller {
         this.counter = Counter.builder("invocaciones.hello").description("Invocaciones totales").register(registry);
     }
 
+    // Para ver metricas prometheus ir --> http://localhost:8080/actuator/prometheus
     // Para verlo ir --> http://localhost:8080/actuator/customEndpoint/hello
     @GetMapping("/hello")
     public String hola(){
